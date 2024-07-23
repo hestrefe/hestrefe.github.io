@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hestrefe.github.io/sitemap
+Sitemap: https://hestrefe.github.io/app/sitemap
+Sitemap: https://hestrefe.github.io/assets/sitemap
+Sitemap: https://hestrefe.github.io/css/sitemap
+Sitemap: https://hestrefe.github.io/includes/sitemap
+Sitemap: https://hestrefe.github.io/item/sitemap
+Sitemap: https://hestrefe.github.io/src/sitemap
